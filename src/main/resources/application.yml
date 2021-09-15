@@ -1,0 +1,6 @@
+minio:
+  url: 127.0.0.1
+  port: 9090
+  bucketName: bucket-1
+  accessKey: 3HBKYNAOYAS2HCV5EY5V
+  secretKey: 76l3LLUkwjLO2l4KXwT6BntBIEoPFbUcYy3j7pPA
